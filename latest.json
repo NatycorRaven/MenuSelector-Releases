@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.2.0",
+  "notes": "新增AI厨房对话专区，结合个人菜谱优先推荐并支持追问；新增设置内检查更新、下载校验和系统确认安装；包含分享文案导入、图文/PDF/视频画面整理及输入法收起修复。开发预览版：视频音轨转写未启用，真实模型和设备升级仍需联调。",
+  "signingCertificateSha256": "f5593fb5077603eab2cff12739e4b024bb73b3cd4d3ba55f9345001487264bad",
+  "sha256": "75afe14eca4cac8282751901f04168f963a8dae5a2f49b3d7859b1191eff23dc",
+  "apkUrl": "https://github.com/NatycorRaven/MenuSelector-Releases/releases/download/v0.2.0-dev/MenuSelector-0.2.0-dev.apk"
+}
